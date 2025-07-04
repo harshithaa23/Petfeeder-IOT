@@ -1,4 +1,4 @@
-# Petfeeder
+# PetFeeder
 
 
 ## Overview
